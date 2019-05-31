@@ -209,3 +209,22 @@ footer .right {
 	float: right;
 	padding-right: 1.5rem;
 }
+
+table {
+	padding: 1rem;
+	position: relative;
+	border-radius: 1rem;
+	text-align: left;
+	display: flex;
+	flex-direction: column;
+	width: 38rem;
+	font-size: 1.2rem;
+	border: 0.1rem solid #DFE1E5;
+	cursor: pointer;
+	margin: auto;	
+	border-top: none;
+}
+
+.auto-result {
+	padding-bottom: 1rem;
+}
